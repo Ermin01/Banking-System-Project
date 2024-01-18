@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1705601707 source:c:\users\ermin\onedrive\radna površina\bankarskisistem\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<vector>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<chrono>
+	<thread>
+
