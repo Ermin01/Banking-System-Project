@@ -1,1 +1,5 @@
-# Banking-System-Project-C-
+# Banking-System-Project-C++
+
+Bankarski-Sistem-Projekat-C++ Status projekta: Projekat je trenutno u fazi alfa testiranja, sa svim potrebnim korisničkim i administrativnim funkcijama koje rade u svom najboljem obimu.
+Omogućava sigurnu upotrebu (bez padova od danas). 
+U svom trenutnom statusu, sav korisnički unos je ograničen i pravilno provjeren za greške tokom navedenog unosa kako bi se spriječile greške u sljedećim fazama razvoja projekta. Projekat se može koristiti kao pravi alat za manju biblioteku - koja mora stalno da bude uključena zbog nedostatka baze podataka (podaci su privremeni i žive dok je .exe aktivan). Sljedeće karakteristike Većina ovih karakteristika će biti uključena u novu, posebnu granu kako bi jezgro projekta uvijek ostalo netaknuto. Dodajte bazu podataka, poboljšajte postojeće karakteristike, strukturirajte bin (libProj) kako biste prevazišli neke probleme s opsegom, promijenite trenutnu implementaciju sistema klasa da sadrži više korisničkih metoda umjesto korisničkih karakteristika ili radije odvojenih funkcija (za one koje se mogu implementirati u takvim moda). Ostanite sa nama za još!
